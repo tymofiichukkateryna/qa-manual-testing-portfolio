@@ -1,5 +1,5 @@
 # qa-manual-testing-portfolio
-Manual QA testing project for SauceDemo application
+--Manual QA testing project for SauceDemo application
 
 # Manual QA Testing Portfolio Project
 
