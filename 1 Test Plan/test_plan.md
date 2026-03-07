@@ -15,9 +15,11 @@ Features tested:
 
 ## Test Types
 - Functional testing
-- UI testing
+- UI/UX testing
 - Negative testing
 - Smoke testing
+- Compatibility testing
+- Security testing
 
 ## Test Environment
 - Browser: Google Chrome
