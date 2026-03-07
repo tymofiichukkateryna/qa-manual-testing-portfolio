@@ -15,7 +15,6 @@ Testing the main e-commerce functionality:
 
 ## Test Documentation Included
 - Test Plan
-- Test Scenarios
 - Test Cases
 - Checklists
 - Bug Reports
