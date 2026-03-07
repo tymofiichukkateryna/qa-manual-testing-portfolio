@@ -1,5 +1,3 @@
-# qa-manual-testing-portfolio
-
 # Manual QA Testing Portfolio Project
 
 ## Project
