@@ -20,8 +20,8 @@ Features tested:
 - Smoke testing
 
 ## Test Environment
-# Browser: Google Chrome
-# OS: Windows 10
+- Browser: Google Chrome
+- OS: Windows 10
 
 ## Entry Criteria
 Application is accessible.
