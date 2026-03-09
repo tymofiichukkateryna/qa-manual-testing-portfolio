@@ -1,4 +1,4 @@
-# Checklist for log in form
+# Checklist for login form
 ## Functional testing(positive)
 * Refresh login page. Verify that Login form loads correctly. Should not happen: Form fields broken, page error.
 ## Functional testing(positive)
