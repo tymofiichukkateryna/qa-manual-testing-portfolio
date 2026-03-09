@@ -34,7 +34,7 @@ There are no overlapping or cut off elements.
 is shown belove the password field in red color and easy to notise. User is not logged in 
 and the login page remains open.
 ## Input validation(positive)
-* Enter letters, numbers, and special characters in Username field. Verify that field accepts valid characters. Application shouldn't crash and page shouldn't brake.
+* Enter letters, numbers, and special characters in Username field. Verify that field accepts valid characters. Application shouldn't crash and page shouldn't break.
 ## Input validation(negative)
 * Enter username with spaces after text and a valid password. Verify that system handles or trims spaces correctly. Login bahavior shouldn't be incorrect.
 ## Compatibility(positive)
