@@ -29,3 +29,9 @@
 | ·                   | The issue occurs when the username contains trailing spaces.                                                                                                                                                                                                                                                                                              |
 | ·                   | The system should automatically trim leading and trailing spaces during authentication to prevent login failures caused by minor input formatting issues.                                                                                                                                                                                                 |
 | ·                   | This behavior may negatively impact user experience because users often accidentally add spaces when copying credentials.                                                                                                                                                                                                                                 |
+
+Attachments
+
+<img width="1179" height="833" alt="image" src="https://github.com/user-attachments/assets/8d58e729-ef76-4822-9f67-4960b909fcf3" />
+
+
