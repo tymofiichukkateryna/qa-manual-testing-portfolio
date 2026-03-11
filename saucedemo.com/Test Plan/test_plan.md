@@ -4,7 +4,7 @@
 SauceDemo Testing
 
 ## Objective
-Verify that core functionality of the application works correctly.
+Verify that core functionality of the website works correctly.
 
 ## Scope
 Features tested:
@@ -29,7 +29,7 @@ Features tested:
 - Environment: Production
 
 ## Entry Criteria
-Application is accessible.
+Website is accessible.
 Test environment is stable.
 
 ## Exit Criteria
