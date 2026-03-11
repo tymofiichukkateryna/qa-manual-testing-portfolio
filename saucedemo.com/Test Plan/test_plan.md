@@ -22,6 +22,7 @@ Features tested:
 - Security testing
 
 ## Test Environment
+- Device: Desktop
 - Browser: Google Chrome
 - OS:  Windows 10 Pro (64-bit)
 
