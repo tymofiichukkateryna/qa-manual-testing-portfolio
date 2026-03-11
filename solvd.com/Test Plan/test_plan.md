@@ -29,6 +29,7 @@ The following areas will be tested:
 - Basic compatibility testing
 Testing is performed on the production version of the website.
 ## Test Environment
+- Environment: Production
 - Device: Desktop
 - Browser: Google Chrome
 - OS:  Windows 10 Pro (64-bit)
