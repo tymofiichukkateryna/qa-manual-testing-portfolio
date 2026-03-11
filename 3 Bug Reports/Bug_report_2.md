@@ -34,9 +34,9 @@
 
 Attachments
 
-https://prnt.sc/BWp27Lb8v6wg\
-https://prnt.sc/lRZ2nxu_U8lK\
-https://github.com/user-attachments/assets/cb7a092c-775f-4a09-9ccb-78f929b04775 
+- https://prnt.sc/BWp27Lb8v6wg 
+- https://prnt.sc/lRZ2nxu_U8lK
+- https://github.com/user-attachments/assets/cb7a092c-775f-4a09-9ccb-78f929b04775 
 
 
 <img width="2031" height="669" alt="image" src="https://github.com/user-attachments/assets/b46e1f48-69c6-4fba-96a6-d964ae6501a2" />
