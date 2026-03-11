@@ -23,7 +23,7 @@ Features tested:
 
 ## Test Environment
 - Browser: Google Chrome
-- OS: Windows 10
+- OS:  Windows 10 Pro (64-bit)
 
 ## Entry Criteria
 Application is accessible.
