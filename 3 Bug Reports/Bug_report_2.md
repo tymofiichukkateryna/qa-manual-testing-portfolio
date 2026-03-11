@@ -34,8 +34,8 @@
 
 Attachments
 
-https://prnt.sc/BWp27Lb8v6wg \
-https://prnt.sc/lRZ2nxu_U8lK \
+https://prnt.sc/BWp27Lb8v6wg\
+https://prnt.sc/lRZ2nxu_U8lK\
 https://github.com/user-attachments/assets/cb7a092c-775f-4a09-9ccb-78f929b04775 
 
 
