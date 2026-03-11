@@ -21,10 +21,10 @@ Testing the main e-commerce functionality:
 
 ## Testing Types Used
 - Functional testing
-- UI testing
-- Negative testing
-- Smoke testing
+- UI/UX testing
+- Functional testing
 - Exploratory testing
+- Compatibility testing
 
 ## Tools Used
 - GitHub
