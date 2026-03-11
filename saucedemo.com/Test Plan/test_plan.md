@@ -26,6 +26,7 @@ Features tested:
 - Browser: Google Chrome
 - OS:  Windows 10 Pro (64-bit)
 - Network: Wi-Fi
+- Environment: Production
 
 ## Entry Criteria
 Application is accessible.
