@@ -22,7 +22,6 @@ Testing the main e-commerce functionality:
 ## Testing Types Used
 - Functional testing
 - UI/UX testing
-- Functional testing
 - Exploratory testing
 - Compatibility testing
 
